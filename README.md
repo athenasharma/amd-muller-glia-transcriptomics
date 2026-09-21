@@ -61,3 +61,9 @@ A useful next step would directly measure mitochondrial respiration, ATP generat
 - Limited donor-covariate adjustment
 - Individual-gene differential expression did not survive FDR correction
 - Transcriptomics alone cannot establish biological function or causality
+
+## Data source
+
+Human retinal single-nucleus RNA-seq data were obtained from the publicly available NCBI Gene Expression Omnibus dataset **GSE221042**.
+
+This repository contains an independent re-analysis of the published dataset; no new patient samples were generated as part of this project.
